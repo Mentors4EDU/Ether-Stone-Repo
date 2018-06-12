@@ -10,7 +10,18 @@ EtherStone is a project aimed to create a token that supports the Ethereum netwo
 
 Dapp Contract: [0xf5ba8a8c87f976b79b17ccd25ee8dc2f8e82fb59](https://etherscan.io/token/0xf5ba8a8c87f976b79b17ccd25ee8dc2f8e82fb59)
 
+### Special Thanks
+This wouldn't be possible without the following resources
+* [Dillinger](dillinger.io) - Sophisticated markdown editor
+* [JSON Simple](https://github.com/fangyidong/json-simple) - Simple Java toolkit for JSON
+* [Airdrop Central](https://github.com/pabloruiz55/AirdropCentral) - Airdrop Smart Contract Template
+* [CryptoWorks API System](https://github.com/Mentors4EDU/CryptoWorks-API-System) - Decentralized Network SDK
+* [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - Framework to build secure and safe smart contracts
+
 Currently the creator of EtherStone, believes that the Ethereum network is getting quite heavy and seemingly more centralized, which is why this project was created. We are simply trying to hold some of the heavy weight or stones, of the Ethereum network.
+
+#### The difficulty targetting function is very straight forward:
+![FlowChart](https://lh3.googleusercontent.com/KclEZT53E44DIehYAkhDY8D-FaHCePPbZd0SjHKDvHxV-17wk-mHI885A2LpEGRnAGqlTbkrNANmwQ=w1855-h965)
 
 >>> Small snippet sample of some of the code
 ```javascript
@@ -44,10 +55,3 @@ contract TokenERC20 {
         currentChallenge = sha3(nonce, currentChallenge, block.blockhash(block.number - 1));  // Save a hash that will be used as the next proof
     }
 ```
-### Special Thanks
-This wouldn't be possible without the following resources
-* [Dillinger](dillinger.io) - Sophisticated markdown editor
-* [JSON Simple](https://github.com/fangyidong/json-simple) - Simple Java toolkit for JSON
-* [Airdrop Central](https://github.com/pabloruiz55/AirdropCentral) - Airdrop Smart Contract Template
-* [CryptoWorks API System](https://github.com/Mentors4EDU/CryptoWorks-API-System) - Decentralized Network SDK
-* [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - Framework to build secure and safe smart contracts
