@@ -1,8 +1,8 @@
 # EtherStone
 
 EtherStone is a project aimed to create a token that supports the Ethereum network by:
-- Being utilized as a payment gateway token as well
-- Being mintable, and starting out as airdropped to a selective group
+- Being utilized as a decentralized payment gateway token
+- Being minted, and starting out as airdropped to a selective group
 - Having mining and hashing extensions to decentralize mining rewards more
 - Utilizing proper protocols to help lighten the network and lower gas fees
 
