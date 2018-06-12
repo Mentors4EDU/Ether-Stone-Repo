@@ -27,7 +27,6 @@ Currently the creator of EtherStone, believes that the Ethereum network is getti
   <img width="506" height="371" src="https://lh3.googleusercontent.com/KclEZT53E44DIehYAkhDY8D-FaHCePPbZd0SjHKDvHxV-17wk-mHI885A2LpEGRnAGqlTbkrNANmwQ=w1855-h965">
 </p>
 
-
 >>> Small snippet sample of some of the code
 ```javascript
 pragma solidity ^0.4.24;
