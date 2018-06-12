@@ -1,6 +1,6 @@
 # EtherStone
 
-![EtherStone](https://lh5.googleusercontent.com/83KP_My0XxxLmIv3xINRn7HF4rQsiR00Pwl_UD3O_YZf_72dI-O44cO11XoDECI3LLCORWtNgjoFSw=w1855-h982)
+![EtherStone](https://lh4.googleusercontent.com/VfFs-6YKaYxioXDmugG8fpNxPsuFUwbUyX5CNO5IiGcV2HK6TbBdMHKmXsJU8aetBPjAU56Htgw6JQ=w1855-h982)
 
 EtherStone is a project aimed to create a token that supports the Ethereum network by:
 - Being utilized as a decentralized payment gateway token
