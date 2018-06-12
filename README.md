@@ -21,7 +21,9 @@ This wouldn't be possible without the following resources
 Currently the creator of EtherStone, believes that the Ethereum network is getting quite heavy and seemingly more centralized, which is why this project was created. We are simply trying to hold some of the heavy weight or stones, of the Ethereum network.
 
 #### The difficulty targetting function is very straight forward:
-![FlowChart](https://lh3.googleusercontent.com/KclEZT53E44DIehYAkhDY8D-FaHCePPbZd0SjHKDvHxV-17wk-mHI885A2LpEGRnAGqlTbkrNANmwQ=w1855-h965)
+<p align="center">
+  <img width="506" height="371" src="https://lh3.googleusercontent.com/KclEZT53E44DIehYAkhDY8D-FaHCePPbZd0SjHKDvHxV-17wk-mHI885A2LpEGRnAGqlTbkrNANmwQ=w1855-h965">
+</p>
 
 >>> Small snippet sample of some of the code
 ```javascript
