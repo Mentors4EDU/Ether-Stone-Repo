@@ -57,5 +57,4 @@ contract TokenERC20 {
         difficulty = difficulty * 10 minutes / timeSinceLastProof + 1;  // Adjusts the difficulty
         timeOfLastProof = now;                              // Reset the counter
         currentChallenge = sha3(nonce, currentChallenge, block.blockhash(block.number - 1));  // Save a hash that will be used as the next proof
-    
 ```
