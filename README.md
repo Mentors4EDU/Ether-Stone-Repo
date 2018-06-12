@@ -24,7 +24,7 @@ Currently the creator of EtherStone, believes that the Ethereum network is getti
 
 #### The difficulty targetting function is very straight forward:
 <p align="center">
-  <img width="506" height="371" src="https://lh3.googleusercontent.com/KclEZT53E44DIehYAkhDY8D-FaHCePPbZd0SjHKDvHxV-17wk-mHI885A2LpEGRnAGqlTbkrNANmwQ=w1855-h965">
+  <img width="506" height="371" src="http://i65.tinypic.com/11j5img.jpg">
 </p>
 
 >>> Small snippet sample of some of the code
@@ -57,5 +57,5 @@ contract TokenERC20 {
         difficulty = difficulty * 10 minutes / timeSinceLastProof + 1;  // Adjusts the difficulty
         timeOfLastProof = now;                              // Reset the counter
         currentChallenge = sha3(nonce, currentChallenge, block.blockhash(block.number - 1));  // Save a hash that will be used as the next proof
-    }
+    
 ```
