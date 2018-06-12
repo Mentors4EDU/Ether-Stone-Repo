@@ -1,7 +1,7 @@
 # EtherStone
 
 <p align="center">
-<img src="https://lh4.googleusercontent.com/VfFs-6YKaYxioXDmugG8fpNxPsuFUwbUyX5CNO5IiGcV2HK6TbBdMHKmXsJU8aetBPjAU56Htgw6JQ=w1855-h982" width="506">
+<img src="http://oi63.tinypic.com/i71sg5.jpg" width="506">
 </p>
 
 **EtherStone is a project aimed to create a token that supports the Ethereum network by:**
