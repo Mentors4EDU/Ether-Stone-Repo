@@ -1,5 +1,7 @@
 # EtherStone
 
+[![N|Solid](https://lh5.googleusercontent.com/83KP_My0XxxLmIv3xINRn7HF4rQsiR00Pwl_UD3O_YZf_72dI-O44cO11XoDECI3LLCORWtNgjoFSw=w1855-h982)](https://mentors4edu.github.io/Ether-Stone-Repo/)
+
 EtherStone is a project aimed to create a token that supports the Ethereum network by:
 - Being utilized as a decentralized payment gateway token
 - Being minted, and starting out as airdropped to a selective group
