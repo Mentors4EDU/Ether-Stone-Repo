@@ -20,7 +20,7 @@ This wouldn't be possible without the following resources
 * [CryptoWorks API System](https://github.com/Mentors4EDU/CryptoWorks-API-System) - Decentralized Network SDK
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - Framework to build secure and safe smart contracts
 
-Currently the creator of EtherStone, believes that the Ethereum network is getting quite heavy and seemingly more centralized, which is why this project was created. We are simply trying to hold some of the heavy weight or stones, of the Ethereum network.
+Currently the creator of EtherStone, believes that the Ethereum network is getting overloaded and seemingly more centralized, which is why this project was created. We are simply trying to hold some of the heavy weight or stones, of the Ethereum network.
 
 #### The difficulty targetting function is very straight forward:
 <p align="center">
