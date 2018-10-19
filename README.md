@@ -59,4 +59,4 @@ contract TokenERC20 {
         timeOfLastProof = now;                              // Reset the counter
         currentChallenge = sha3(nonce, currentChallenge, block.blockhash(block.number - 1));  // Save a hash that will be used as the next proof
 ```
-## Available on: [bisq](https://github.com/bisq-network/bisq/pull/1706/files) | [TrustWallet](https://github.com/Mentors4EDU/tokens/commit/59d6b4cc549ff1a7b6f5651708f3c3a0e33a9853) | [Karsha](https://karsha.biz/ico/116) | [TokenJar](https://tokenjar.io/ETHS) | [Enclaves](https://enclaves.io/trade/ETHS) | [ CoinPayments](https://www.coinpayments.net/supported-coins-eth-tokens)
+## Available on: [bisq](https://github.com/bisq-network/bisq/pull/1706/files) | [Karsha](https://karsha.biz/ico/116) | [TokenJar](https://tokenjar.io/ETHS) | [Enclaves](https://enclaves.io/trade/ETHS) | [TrustWallet](https://github.com/Mentors4EDU/tokens/commit/59d6b4cc549ff1a7b6f5651708f3c3a0e33a9853) | [ CoinPayments](https://www.coinpayments.net/supported-coins-eth-tokens)
