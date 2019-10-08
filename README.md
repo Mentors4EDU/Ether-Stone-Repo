@@ -1,7 +1,7 @@
 # EtherStone
 
 <p align="center">
-<img src="http://oi63.tinypic.com/i71sg5.jpg" width="506">
+<img src="https://i.imgur.com/ThZuGL5.png" width="506">
 </p>
 
 **EtherStone is a project aimed to create a token that supports the Ethereum network by:**
@@ -24,7 +24,7 @@ Currently the creator of EtherStone, believes that the Ethereum network is getti
 
 #### The difficulty targetting function is very straight forward:
 <p align="center">
-  <img width="506" height="371" src="http://i65.tinypic.com/11j5img.jpg">
+  <img width="506" height="371" src="https://i.imgur.com/pF8HvjJ.png">
 </p>
 
 >>> Small snippet sample of some of the code
